@@ -4,7 +4,7 @@
     <groupId>com.naresh</groupId>
     <artifactId>nareshLogin</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
+    <version>3.3.0</version>
     <name>Account Registration Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
